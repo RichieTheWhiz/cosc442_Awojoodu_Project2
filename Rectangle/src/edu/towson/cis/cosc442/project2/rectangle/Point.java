@@ -15,7 +15,8 @@ public class Point {
 	 * @param y the y
 	 */
 	Point(Double x, Double y) {
-		this.x = y;
+		//This will establish the x/y coordinates that make up a point. 
+		this.x = x;
 		this.y = y;
 	}
 }
