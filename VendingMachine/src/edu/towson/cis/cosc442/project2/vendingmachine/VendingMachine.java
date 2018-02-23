@@ -1,6 +1,4 @@
 package edu.towson.cis.cosc442.project2.vendingmachine;
-
-
 /**
  * 
  * This class represents the vending machine module. You can put items in the vending machine,
